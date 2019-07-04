@@ -1,8 +1,6 @@
-'use strict';
-
 module.exports = {
     extends: [
-        '@24hr/eslint-24hr',
+        '@24hr/eslint-config',
     ],
 
     plugins: [
