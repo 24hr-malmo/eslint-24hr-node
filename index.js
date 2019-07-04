@@ -13,6 +13,5 @@ module.exports = {
 
     rules: {
         'import/no-unresolved': [ 2, { commonjs: true } ],
-        'strict': [ 2, 'global' ],
     }
 }
