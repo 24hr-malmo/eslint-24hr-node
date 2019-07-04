@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-24hr-node",
-  "version": "1.0.1",
+  "name": "@24hr/eslint-config-24hr-node",
+  "version": "1.0.2",
   "description": "Eslint for 24HR Malmo",
   "main": "index.js",
   "devDependencies": {},

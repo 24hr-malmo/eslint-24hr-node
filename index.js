@@ -2,7 +2,7 @@
 
 module.exports = {
     extends: [
-        '24hr',
+        '@24hr/eslint-24hr',
     ],
 
     plugins: [
