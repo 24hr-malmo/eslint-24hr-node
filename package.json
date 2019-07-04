@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-24hr-node",
+  "name": "eslint-24hr-node",
   "version": "0.0.1",
   "description": "Eslint for 24HR Malmo",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/24hr-malmo/eslint-config-24hr-node.git"
+    "url": "git+https://github.com/24hr-malmo/eslint-24hr-node.git"
   },
   "keywords": [
     "eslint",
